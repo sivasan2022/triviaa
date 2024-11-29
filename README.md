@@ -1,16 +1,12 @@
-# triviaa
+# Triviaa 🎉
 
-A new Flutter project.
+Triviaa is a fun and interactive quiz application built with Flutter. It challenges users with exciting trivia questions across various categories, keeping them engaged while improving their knowledge.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🌐 **Multiple Difficulties**: Choose from different range of difficulty.
+- 🏆 **Scoring System**: Track your scores at the end of a game.
+- 🎨 **Intuitive UI**: Smooth, user-friendly interface with animations.
+- 📱 **Cross-Platform**: Runs seamlessly on Android and iOS.
+ 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
